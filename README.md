@@ -216,34 +216,37 @@ Worked on structured data analysis, data quality improvement, model building, an
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
+
+<div align="center">
+
+| Signal | Focus |
+|---|---|
+| Engineering | Full Stack Development + Generative AI |
+| Core Stack | React, Next.js, TypeScript, Node.js, Express, PostgreSQL, Prisma |
+| AI Work | RAG pipelines, LLM integration, LangChain, ChromaDB, AI agents |
+| Product Work | Secure auth, RBAC, API design, caching, dashboards, automation |
+
+</div>
+
+---
+
+## GitHub Trophies
 
 <p align="center">
-  <img width="100%" src="./assets/github-analytics.svg" alt="GitHub analytics" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SarveshDhanrale25&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub trophies" />
 </p>
 
 ---
 
-## 🏅 GitHub Trophies
+## Contribution Snake
 
 <p align="center">
-  <img width="100%" src="./assets/github-trophies.svg" alt="GitHub trophies" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img width="100%" src="./assets/contribution-activity.svg" alt="Contribution activity" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img width="100%" src="./assets/contribution-snake.svg" alt="Contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SarveshDhanrale25/SarveshDhanrale25/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SarveshDhanrale25/SarveshDhanrale25/output/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/SarveshDhanrale25/SarveshDhanrale25/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  </picture>
 </p>
 
 ---
