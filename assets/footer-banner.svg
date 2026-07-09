@@ -1,0 +1,18 @@
+<svg width="1200" height="160" viewBox="0 0 1200 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="0.5" stop-color="#1E3A8A"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EC4899"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="160" fill="url(#bg)"/>
+  <path d="M0 44C178 72 328 73 506 48C710 20 902 18 1200 60V0H0V44Z" fill="#020617" fill-opacity="0.55"/>
+  <path d="M0 58C230 92 407 82 612 58C826 34 1008 42 1200 70" stroke="url(#line)" stroke-width="3" stroke-opacity="0.55"/>
+  <text x="600" y="104" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="800">Clean software. Practical AI. Measurable impact.</text>
+</svg>
