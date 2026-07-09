@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0A2540,70:0B3D91,100:1E5AA8&text=Sarvesh%20Dhanrale&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Generative%20AI%20Engineer&descAlignY=58&animation=fadeIn" alt="Sarvesh Dhanrale banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:07182F,70:1E3A8A,100:7C3AED&text=Sarvesh%20Dhanrale&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Generative%20AI%20Engineer&descAlignY=58&animation=fadeIn" alt="Sarvesh Dhanrale banner" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=900&lines=Building+AI-powered+full-stack+products;Engineering+secure+and+scalable+web+platforms;Working+across+React%2C+Next.js%2C+Node.js%2C+FastAPI+and+RAG;Turning+data%2C+LLMs+and+automation+into+useful+software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+AI-powered+full-stack+products;Engineering+secure+and+scalable+web+platforms;Working+across+React%2C+Next.js%2C+Node.js%2C+FastAPI+and+RAG;Turning+data%2C+LLMs+and+automation+into+useful+software" alt="Typing SVG" />
   </a>
 </p>
 
@@ -216,55 +216,44 @@ Worked on structured data analysis, data quality improvement, model building, an
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-| Engineering Signal | Current Focus |
-|---|---|
-| Full Stack Development | React, Next.js, TypeScript, Node.js, Express, PostgreSQL, Prisma |
-| AI Engineering | RAG pipelines, LLM integration, LangChain, ChromaDB, AI agents |
-| Product Architecture | Authentication, RBAC, API design, caching, deployment workflows |
-| Data Science | EDA, feature engineering, model evaluation, reporting automation |
-
-</div>
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile-SarveshDhanrale25-020617?style=for-the-badge&logo=github&logoColor=white&labelColor=0A2540" alt="GitHub profile" />
-  <img src="https://img.shields.io/badge/Primary%20Stack-Full%20Stack%20%2B%20AI-0B3D91?style=for-the-badge&labelColor=020617" alt="Primary stack" />
-  <img src="https://img.shields.io/badge/Theme-Navy%20Engineering-1E5AA8?style=for-the-badge&labelColor=020617" alt="Navy engineering theme" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SarveshDhanrale25&show_icons=true&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=E5E7EB&icon_color=8B5CF6&ring_color=8B5CF6&border_radius=12&include_all_commits=true&count_private=true" alt="Sarvesh Dhanrale GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=SarveshDhanrale25&hide_border=true&background=020617&ring=8B5CF6&fire=7DD3FC&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&border_radius=12" alt="Sarvesh Dhanrale GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="62%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshDhanrale25&layout=compact&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=E5E7EB&border_radius=12&langs_count=8" alt="Most used languages" />
 </p>
 
 ---
 
-## Engineering Highlights
+## 🏅 GitHub Trophies
 
-<div align="center">
-
-| Highlight | Details |
-|---|---|
-| Model Improvement | Improved ML prediction accuracy by approximately 30% during data science internship work |
-| Automation Impact | Reduced reporting time by approximately 40% through LLM-powered analytics and automated insights |
-| Risk Intelligence | Improved risk prediction accuracy by approximately 28% in Nexus-Intel |
-| Platform Security | Built JWT access/refresh authentication, RBAC, replay protection, and privacy-first verification flows |
-| Product Scope | Built dashboards and backend workflows across citizen, merchant, admin, legal-tech, and DevOps use cases |
-
-</div>
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SarveshDhanrale25&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7&title=Commits,Experience,PullRequest,Stars,Followers,Repositories,Issues,Reviews" alt="GitHub trophies" />
+</p>
 
 ---
 
-## Contribution Focus
+## 📈 Contribution Activity
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SarveshDhanrale25&bg_color=020617&color=A78BFA&line=8B5CF6&point=7DD3FC&area=true&area_color=1E3A8A&hide_border=true&radius=12&custom_title=Sarvesh%20Dhanrale%27s%20Contribution%20Graph" alt="Sarvesh Dhanrale contribution graph" />
+</p>
 
-| Area | What I Build |
-|---|---|
-| AI Products | Retrieval-augmented systems, AI agents, LLM workflows, automated analytics |
-| Backend Systems | Secure APIs, relational data models, caching, service-layer architecture |
-| Frontend Apps | Polished dashboards, role-based workflows, responsive product interfaces |
-| Data Workflows | EDA, model evaluation, feature engineering, visualization, reporting systems |
+---
 
-</div>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SarveshDhanrale25/SarveshDhanrale25/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SarveshDhanrale25/SarveshDhanrale25/output/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/SarveshDhanrale25/SarveshDhanrale25/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+  </picture>
+</p>
 
 ---
 
@@ -312,5 +301,5 @@ Open_To:
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1E5AA8,50:0B3D91,100:020617" alt="Footer banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:7C3AED,50:1E3A8A,100:020617" alt="Footer banner" />
 </p>
