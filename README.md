@@ -1,30 +1,30 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,35:4c1d95,70:6366f1,100:7c3aed&text=Sarvesh%20Dhanrale&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Generative%20AI%20Engineer&descAlignY=58&animation=fadeIn" alt="Sarvesh Dhanrale banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0A2540,70:0B3D91,100:1E5AA8&text=Sarvesh%20Dhanrale&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Generative%20AI%20Engineer&descAlignY=58&animation=fadeIn" alt="Sarvesh Dhanrale banner" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+AI-powered+full-stack+products;Engineering+secure+and+scalable+web+platforms;Working+across+React%2C+Next.js%2C+Node.js%2C+FastAPI+and+RAG;Turning+data%2C+LLMs+and+automation+into+useful+software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=900&lines=Building+AI-powered+full-stack+products;Engineering+secure+and+scalable+web+platforms;Working+across+React%2C+Next.js%2C+Node.js%2C+FastAPI+and+RAG;Turning+data%2C+LLMs+and+automation+into+useful+software" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Artificial%20Intelligence%20%26%20Data%20Science-7c3aed?style=flat-square&labelColor=111827" alt="B.Tech AI and Data Science" />
-  <img src="https://img.shields.io/badge/Smt.%20Indira%20Gandhi%20College%20of%20Engineering-2023--2027-6366f1?style=flat-square&labelColor=111827" alt="Education" />
-  <img src="https://img.shields.io/badge/Location-India-4f46e5?style=flat-square&labelColor=111827" alt="Location India" />
+  <img src="https://img.shields.io/badge/B.Tech-Artificial%20Intelligence%20%26%20Data%20Science-0B3D91?style=flat-square&labelColor=111827" alt="B.Tech AI and Data Science" />
+  <img src="https://img.shields.io/badge/Smt.%20Indira%20Gandhi%20College%20of%20Engineering-2023--2027-1E5AA8?style=flat-square&labelColor=111827" alt="Education" />
+  <img src="https://img.shields.io/badge/Location-India-0B3D91?style=flat-square&labelColor=111827" alt="Location India" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/SarveshDhanrale25?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-View%20Projects-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/sarveshdhanrale"><img src="https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sarveshdhanrale1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/SarveshDhanrale25?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-View%20Projects-0B3D91?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/sarveshdhanrale"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B3D91?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sarveshdhanrale1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0F4C81?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/SarveshDhanrale25"><img src="https://img.shields.io/badge/GitHub-SarveshDhanrale25-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SarveshDhanrale25&style=flat-square&color=7c3aed&label=Profile%20Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/SarveshDhanrale25?style=flat-square&color=6366f1&labelColor=111827&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/SarveshDhanrale25?style=flat-square&color=a78bfa&labelColor=111827&label=Stars" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=SarveshDhanrale25&style=flat-square&color=0B3D91&label=Profile%20Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/SarveshDhanrale25?style=flat-square&color=1E5AA8&labelColor=111827&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/SarveshDhanrale25?style=flat-square&color=38BDF8&labelColor=111827&label=Stars" alt="Stars" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ Full-stack engineering internships, AI/ML engineering roles, generative AI produ
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" />
   <img src="https://img.shields.io/badge/Shadcn%20UI-111827?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-7c3aed?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0B3D91?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
 **Backend & Databases**
@@ -199,7 +199,7 @@ Worked on structured data analysis, data quality improvement, model building, an
 **Smt. Indira Gandhi College of Engineering**
 
 <p>
-  <img src="https://img.shields.io/badge/Data%20Visualization%20and%20Tools-Certified-7c3aed?style=for-the-badge" alt="Data Visualization and Tools" />
+  <img src="https://img.shields.io/badge/Data%20Visualization%20and%20Tools-Certified-0B3D91?style=for-the-badge" alt="Data Visualization and Tools" />
 </p>
 
 ---
@@ -218,42 +218,53 @@ Worked on structured data analysis, data quality improvement, model building, an
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SarveshDhanrale25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e5e7eb" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=SarveshDhanrale25&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak" />
-</p>
+<div align="center">
+
+| Engineering Signal | Current Focus |
+|---|---|
+| Full Stack Development | React, Next.js, TypeScript, Node.js, Express, PostgreSQL, Prisma |
+| AI Engineering | RAG pipelines, LLM integration, LangChain, ChromaDB, AI agents |
+| Product Architecture | Authentication, RBAC, API design, caching, deployment workflows |
+| Data Science | EDA, feature engineering, model evaluation, reporting automation |
+
+</div>
 
 <p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshDhanrale25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e5e7eb" alt="Top languages" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SarveshDhanrale25&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub trophies" />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SarveshDhanrale25&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=4c1d95" alt="Contribution activity graph" />
+  <img src="https://img.shields.io/badge/Profile-SarveshDhanrale25-020617?style=for-the-badge&logo=github&logoColor=white&labelColor=0A2540" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/Primary%20Stack-Full%20Stack%20%2B%20AI-0B3D91?style=for-the-badge&labelColor=020617" alt="Primary stack" />
+  <img src="https://img.shields.io/badge/Theme-Navy%20Engineering-1E5AA8?style=for-the-badge&labelColor=020617" alt="Navy engineering theme" />
 </p>
 
 ---
 
-## Contribution Snake
+## Engineering Highlights
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SarveshDhanrale25/SarveshDhanrale25/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SarveshDhanrale25/SarveshDhanrale25/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SarveshDhanrale25/SarveshDhanrale25/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<div align="center">
+
+| Highlight | Details |
+|---|---|
+| Model Improvement | Improved ML prediction accuracy by approximately 30% during data science internship work |
+| Automation Impact | Reduced reporting time by approximately 40% through LLM-powered analytics and automated insights |
+| Risk Intelligence | Improved risk prediction accuracy by approximately 28% in Nexus-Intel |
+| Platform Security | Built JWT access/refresh authentication, RBAC, replay protection, and privacy-first verification flows |
+| Product Scope | Built dashboards and backend workflows across citizen, merchant, admin, legal-tech, and DevOps use cases |
+
+</div>
+
+---
+
+## Contribution Focus
+
+<div align="center">
+
+| Area | What I Build |
+|---|---|
+| AI Products | Retrieval-augmented systems, AI agents, LLM workflows, automated analytics |
+| Backend Systems | Secure APIs, relational data models, caching, service-layer architecture |
+| Frontend Apps | Polished dashboards, role-based workflows, responsive product interfaces |
+| Data Workflows | EDA, model evaluation, feature engineering, visualization, reporting systems |
+
+</div>
 
 ---
 
@@ -288,10 +299,10 @@ Open_To:
 ## Connect
 
 <p align="center">
-  <a href="mailto:sarveshdhanrale1@gmail.com"><img src="https://img.shields.io/badge/Gmail-sarveshdhanrale1%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/sarveshdhanrale"><img src="https://img.shields.io/badge/LinkedIn-Sarvesh%20Dhanrale-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sarveshdhanrale1@gmail.com"><img src="https://img.shields.io/badge/Gmail-sarveshdhanrale1%40gmail.com-0B3D91?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/sarveshdhanrale"><img src="https://img.shields.io/badge/LinkedIn-Sarvesh%20Dhanrale-0B3D91?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/SarveshDhanrale25"><img src="https://img.shields.io/badge/GitHub-SarveshDhanrale25-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/SarveshDhanrale25?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Projects-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/SarveshDhanrale25?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Projects-1E5AA8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -301,5 +312,5 @@ Open_To:
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:7c3aed,50:4f46e5,100:0f172a" alt="Footer banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1E5AA8,50:0B3D91,100:020617" alt="Footer banner" />
 </p>
