@@ -219,12 +219,7 @@ Worked on structured data analysis, data quality improvement, model building, an
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SarveshDhanrale25&show_icons=true&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=E5E7EB&icon_color=8B5CF6&ring_color=8B5CF6&border_radius=12&include_all_commits=true&count_private=true" alt="Sarvesh Dhanrale GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=SarveshDhanrale25&hide_border=true&background=020617&ring=8B5CF6&fire=7DD3FC&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&border_radius=12" alt="Sarvesh Dhanrale GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="62%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshDhanrale25&layout=compact&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=E5E7EB&border_radius=12&langs_count=8" alt="Most used languages" />
+  <img width="100%" src="./assets/github-analytics.svg" alt="GitHub analytics" />
 </p>
 
 ---
@@ -232,7 +227,7 @@ Worked on structured data analysis, data quality improvement, model building, an
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SarveshDhanrale25&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7&title=Commits,Experience,PullRequest,Stars,Followers,Repositories,Issues,Reviews" alt="GitHub trophies" />
+  <img width="100%" src="./assets/github-trophies.svg" alt="GitHub trophies" />
 </p>
 
 ---
@@ -240,7 +235,7 @@ Worked on structured data analysis, data quality improvement, model building, an
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SarveshDhanrale25&bg_color=020617&color=A78BFA&line=8B5CF6&point=7DD3FC&area=true&area_color=1E3A8A&hide_border=true&radius=12&custom_title=Sarvesh%20Dhanrale%27s%20Contribution%20Graph" alt="Sarvesh Dhanrale contribution graph" />
+  <img width="100%" src="./assets/contribution-activity.svg" alt="Contribution activity" />
 </p>
 
 ---
@@ -248,11 +243,7 @@ Worked on structured data analysis, data quality improvement, model building, an
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SarveshDhanrale25/SarveshDhanrale25/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SarveshDhanrale25/SarveshDhanrale25/output/github-contribution-grid-snake.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/SarveshDhanrale25/SarveshDhanrale25/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
-  </picture>
+  <img width="100%" src="./assets/contribution-snake.svg" alt="Contribution snake" />
 </p>
 
 ---
