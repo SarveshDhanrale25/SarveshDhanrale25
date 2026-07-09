@@ -1,0 +1,16 @@
+<svg width="1180" height="420" viewBox="0 0 1180 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1180" height="420" rx="18" fill="#020617"/>
+  <rect x="1" y="1" width="1178" height="418" rx="17" stroke="#1E3A8A" stroke-opacity="0.55"/>
+  <text x="48" y="62" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">📈 Contribution Activity</text>
+  <line x1="48" y1="82" x2="1132" y2="82" stroke="#1E293B"/>
+  <text x="590" y="132" text-anchor="middle" fill="#A78BFA" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Sarvesh Dhanrale's Contribution Graph</text>
+  <g stroke="#312E81" stroke-width="1" opacity="0.7">
+    <path d="M90 350H1110"/><path d="M90 305H1110"/><path d="M90 260H1110"/><path d="M90 215H1110"/><path d="M90 170H1110"/>
+    <path d="M90 160V350"/><path d="M190 160V350"/><path d="M290 160V350"/><path d="M390 160V350"/><path d="M490 160V350"/><path d="M590 160V350"/><path d="M690 160V350"/><path d="M790 160V350"/><path d="M890 160V350"/><path d="M990 160V350"/><path d="M1090 160V350"/>
+  </g>
+  <polyline points="90,330 160,310 230,245 300,285 370,230 440,260 510,190 580,245 650,215 720,270 790,205 860,235 930,170 1000,250 1070,150 1110,220" fill="none" stroke="#8B5CF6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M90 330 C220 290 320 250 440 260 C540 270 575 195 650 215 C780 250 820 210 930 170 C1005 145 1050 150 1110 220 L1110 350 L90 350 Z" fill="#1E3A8A" opacity="0.28"/>
+  <g fill="#E5E7EB"><circle cx="230" cy="245" r="5"/><circle cx="510" cy="190" r="5"/><circle cx="790" cy="205" r="5"/><circle cx="930" cy="170" r="5"/><circle cx="1070" cy="150" r="5"/></g>
+  <text x="48" y="178" fill="#A78BFA" font-family="Segoe UI, Arial, sans-serif" font-size="15">20</text>
+  <text x="48" y="350" fill="#A78BFA" font-family="Segoe UI, Arial, sans-serif" font-size="15">0</text>
+</svg>
