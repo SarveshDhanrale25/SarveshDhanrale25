@@ -1,57 +1,65 @@
-<svg width="1180" height="340" viewBox="0 0 1180 340" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1180" height="340" fill="#0D1117"/>
-  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
-    <g transform="translate(50 28)">
-      <text x="45" y="0" fill="#FF3D9A" font-size="18" font-weight="800">Commits</text>
-      <path d="M35 38h20c0 22-16 40-38 40v-14c13 0 20-10 20-22h-2z" fill="none" stroke="#63F9A4" stroke-width="6"/>
-      <path d="M95 38h-20c0 22 16 40 38 40v-14c-13 0-20-10-20-22h2z" fill="none" stroke="#63F9A4" stroke-width="6"/>
-      <path d="M25 36h80v36c0 28-18 48-40 58-22-10-40-30-40-58z" fill="#63F9A4"/>
-      <path d="M30 92c12 18 30 28 35 30 5-2 23-12 35-30" stroke="#38F58E" stroke-width="8"/>
-      <circle cx="65" cy="60" r="24" fill="#E5E7EB"/><text x="65" y="70" fill="#111827" font-size="28" font-family="Georgia, serif">A</text>
-      <text x="65" y="152" fill="#67E8F9" font-size="15" font-weight="800">High Committer</text><text x="65" y="169" fill="#67E8F9" font-size="14" font-weight="800">105pt</text><rect x="5" y="194" width="120" height="4" fill="#8B1E5D"/>
+<svg width="1200" height="270" viewBox="0 0 1200 270" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="270" fill="#0D1117"/>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.55" stop-color="#101827"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <rect x="10" y="10" width="1180" height="250" rx="18" fill="url(#panel)" stroke="#1E3A8A" stroke-opacity="0.45"/>
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle" filter="url(#soft)">
+    <g transform="translate(32 28)">
+      <text x="75" y="0" fill="#FF3D9A" font-size="17" font-weight="800">Commits</text>
+      <path d="M38 54h-19v18c0 23 14 38 36 40" stroke="#63F9A4" stroke-width="7" fill="none"/><path d="M112 54h19v18c0 23-14 38-36 40" stroke="#63F9A4" stroke-width="7" fill="none"/>
+      <path d="M35 48h80v43c0 29-20 49-40 60-20-11-40-31-40-60V48Z" fill="#63F9A4"/><path d="M42 96c12 18 28 30 33 32 5-2 21-14 33-32" stroke="#3DF28E" stroke-width="8" opacity="0.75"/>
+      <circle cx="75" cy="78" r="24" fill="#E5E7EB"/><text x="75" y="87" fill="#111827" font-size="28" font-family="Georgia, serif">B</text>
+      <text x="75" y="178" fill="#67E8F9" font-size="14" font-weight="800">Active Builder</text><text x="75" y="196" fill="#67E8F9" font-size="14" font-weight="800">65pt</text><rect x="18" y="216" width="114" height="4" fill="#5B1B4D"/><rect x="18" y="216" width="72" height="4" fill="#FF3D9A"/>
     </g>
-    <g transform="translate(205 28)">
-      <text x="65" y="0" fill="#FF3D9A" font-size="18" font-weight="800">Experience</text>
-      <path d="M35 38h20c0 22-16 40-38 40v-14c13 0 20-10 20-22h-2z" fill="none" stroke="#63F9A4" stroke-width="6"/><path d="M95 38h-20c0 22 16 40 38 40v-14c-13 0-20-10-20-22h2z" fill="none" stroke="#63F9A4" stroke-width="6"/>
-      <path d="M25 36h80v36c0 28-18 48-40 58-22-10-40-30-40-58z" fill="#63F9A4"/>
-      <circle cx="65" cy="60" r="24" fill="#E5E7EB"/><text x="65" y="70" fill="#111827" font-size="28" font-family="Georgia, serif">A</text>
-      <text x="65" y="152" fill="#67E8F9" font-size="15" font-weight="800">Intermediate Dev</text><text x="65" y="169" fill="#67E8F9" font-size="14" font-weight="800">11pt</text><rect x="5" y="194" width="120" height="4" fill="#8B1E5D"/>
+    <g transform="translate(178 28)">
+      <text x="75" y="0" fill="#FF3D9A" font-size="17" font-weight="800">Experience</text>
+      <path d="M38 54h-19v18c0 23 14 38 36 40" stroke="#63F9A4" stroke-width="7" fill="none"/><path d="M112 54h19v18c0 23-14 38-36 40" stroke="#63F9A4" stroke-width="7" fill="none"/>
+      <path d="M35 48h80v43c0 29-20 49-40 60-20-11-40-31-40-60V48Z" fill="#63F9A4"/><circle cx="75" cy="78" r="24" fill="#E5E7EB"/><text x="75" y="87" fill="#111827" font-size="28" font-family="Georgia, serif">A</text>
+      <text x="75" y="178" fill="#67E8F9" font-size="14" font-weight="800">Full Stack Dev</text><text x="75" y="196" fill="#67E8F9" font-size="14" font-weight="800">AI + Web</text><rect x="18" y="216" width="114" height="4" fill="#5B1B4D"/><rect x="18" y="216" width="102" height="4" fill="#FF3D9A"/>
     </g>
-    <g transform="translate(365 28)">
-      <text x="65" y="0" fill="#FF3D9A" font-size="18" font-weight="800">PullRequest</text>
-      <path d="M35 38h20c0 22-16 40-38 40v-14c13 0 20-10 20-22h-2z" fill="none" stroke="#FF553E" stroke-width="6"/><path d="M95 38h-20c0 22 16 40 38 40v-14c-13 0-20-10-20-22h2z" fill="none" stroke="#FF553E" stroke-width="6"/>
-      <path d="M25 36h80v36c0 28-18 48-40 58-22-10-40-30-40-58z" fill="#FF553E"/><circle cx="65" cy="60" r="24" fill="#E5E7EB"/><text x="65" y="70" fill="#111827" font-size="28" font-family="Georgia, serif">B</text>
-      <text x="65" y="152" fill="#67E8F9" font-size="15" font-weight="800">Middle Puller</text><text x="65" y="169" fill="#67E8F9" font-size="14" font-weight="800">14pt</text><rect x="5" y="194" width="120" height="4" fill="#8B1E5D"/><rect x="5" y="194" width="46" height="4" fill="#FF3D9A"/>
+    <g transform="translate(324 28)">
+      <text x="75" y="0" fill="#FF3D9A" font-size="17" font-weight="800">PullRequest</text>
+      <path d="M38 54h-19v18c0 23 14 38 36 40" stroke="#FF553E" stroke-width="7" fill="none"/><path d="M112 54h19v18c0 23-14 38-36 40" stroke="#FF553E" stroke-width="7" fill="none"/>
+      <path d="M35 48h80v43c0 29-20 49-40 60-20-11-40-31-40-60V48Z" fill="#FF553E"/><circle cx="75" cy="78" r="24" fill="#E5E7EB"/><text x="75" y="87" fill="#111827" font-size="28" font-family="Georgia, serif">C</text>
+      <text x="75" y="178" fill="#67E8F9" font-size="14" font-weight="800">First Puller</text><text x="75" y="196" fill="#67E8F9" font-size="14" font-weight="800">1pt</text><rect x="18" y="216" width="114" height="4" fill="#5B1B4D"/><rect x="18" y="216" width="28" height="4" fill="#FF3D9A"/>
     </g>
-    <g transform="translate(530 28)">
-      <text x="65" y="0" fill="#FF3D9A" font-size="18" font-weight="800">Stars</text>
-      <path d="M35 38h20c0 22-16 40-38 40v-14c13 0 20-10 20-22h-2z" fill="none" stroke="#2F7BFF" stroke-width="6"/><path d="M95 38h-20c0 22 16 40 38 40v-14c-13 0-20-10-20-22h2z" fill="none" stroke="#2F7BFF" stroke-width="6"/>
-      <path d="M25 36h80v36c0 28-18 48-40 58-22-10-40-30-40-58z" fill="#2F7BFF"/><circle cx="65" cy="60" r="24" fill="#E5E7EB"/><text x="65" y="70" fill="#111827" font-size="28" font-family="Georgia, serif">C</text>
-      <text x="65" y="152" fill="#67E8F9" font-size="15" font-weight="800">First Star</text><text x="65" y="169" fill="#67E8F9" font-size="14" font-weight="800">9pt</text><rect x="5" y="194" width="120" height="4" fill="#8B1E5D"/><rect x="5" y="194" width="78" height="4" fill="#FF3D9A"/>
+    <g transform="translate(470 28)">
+      <text x="75" y="0" fill="#FF3D9A" font-size="17" font-weight="800">Stars</text>
+      <path d="M38 54h-19v18c0 23 14 38 36 40" stroke="#2F7BFF" stroke-width="7" fill="none"/><path d="M112 54h19v18c0 23-14 38-36 40" stroke="#2F7BFF" stroke-width="7" fill="none"/>
+      <path d="M35 48h80v43c0 29-20 49-40 60-20-11-40-31-40-60V48Z" fill="#2F7BFF"/><circle cx="75" cy="78" r="24" fill="#E5E7EB"/><text x="75" y="87" fill="#111827" font-size="28" font-family="Georgia, serif">C</text>
+      <text x="75" y="178" fill="#67E8F9" font-size="14" font-weight="800">First Stars</text><text x="75" y="196" fill="#67E8F9" font-size="14" font-weight="800">2pt</text><rect x="18" y="216" width="114" height="4" fill="#5B1B4D"/><rect x="18" y="216" width="38" height="4" fill="#FF3D9A"/>
     </g>
-    <g transform="translate(690 28)">
-      <text x="65" y="0" fill="#FF3D9A" font-size="18" font-weight="800">Followers</text>
-      <path d="M35 38h20c0 22-16 40-38 40v-14c13 0 20-10 20-22h-2z" fill="none" stroke="#2F7BFF" stroke-width="6"/><path d="M95 38h-20c0 22 16 40 38 40v-14c-13 0-20-10-20-22h2z" fill="none" stroke="#2F7BFF" stroke-width="6"/>
-      <path d="M25 36h80v36c0 28-18 48-40 58-22-10-40-30-40-58z" fill="#2F7BFF"/><circle cx="65" cy="60" r="24" fill="#E5E7EB"/><text x="65" y="70" fill="#111827" font-size="28" font-family="Georgia, serif">C</text>
-      <text x="65" y="152" fill="#67E8F9" font-size="15" font-weight="800">First Friend</text><text x="65" y="169" fill="#67E8F9" font-size="14" font-weight="800">4pt</text><rect x="5" y="194" width="120" height="4" fill="#8B1E5D"/><rect x="5" y="194" width="40" height="4" fill="#FF3D9A"/>
+    <g transform="translate(616 28)">
+      <text x="75" y="0" fill="#FF3D9A" font-size="17" font-weight="800">Followers</text>
+      <path d="M38 54h-19v18c0 23 14 38 36 40" stroke="#2F7BFF" stroke-width="7" fill="none"/><path d="M112 54h19v18c0 23-14 38-36 40" stroke="#2F7BFF" stroke-width="7" fill="none"/>
+      <path d="M35 48h80v43c0 29-20 49-40 60-20-11-40-31-40-60V48Z" fill="#2F7BFF"/><circle cx="75" cy="78" r="24" fill="#E5E7EB"/><text x="75" y="87" fill="#111827" font-size="28" font-family="Georgia, serif">C</text>
+      <text x="75" y="178" fill="#67E8F9" font-size="14" font-weight="800">Growing Reach</text><text x="75" y="196" fill="#67E8F9" font-size="14" font-weight="800">Live</text><rect x="18" y="216" width="114" height="4" fill="#5B1B4D"/><rect x="18" y="216" width="45" height="4" fill="#FF3D9A"/>
     </g>
-    <g transform="translate(850 28)">
-      <text x="65" y="0" fill="#FF3D9A" font-size="18" font-weight="800">Repositories</text>
-      <path d="M35 38h20c0 22-16 40-38 40v-14c13 0 20-10 20-22h-2z" fill="none" stroke="#2F7BFF" stroke-width="6"/><path d="M95 38h-20c0 22 16 40 38 40v-14c-13 0-20-10-20-22h2z" fill="none" stroke="#2F7BFF" stroke-width="6"/>
-      <path d="M25 36h80v36c0 28-18 48-40 58-22-10-40-30-40-58z" fill="#2F7BFF"/><circle cx="65" cy="60" r="24" fill="#E5E7EB"/><text x="65" y="70" fill="#111827" font-size="28" font-family="Georgia, serif">C</text>
-      <text x="65" y="152" fill="#67E8F9" font-size="15" font-weight="800">First Repository</text><text x="65" y="169" fill="#67E8F9" font-size="14" font-weight="800">8pt</text><rect x="5" y="194" width="120" height="4" fill="#8B1E5D"/><rect x="5" y="194" width="84" height="4" fill="#FF3D9A"/>
+    <g transform="translate(762 28)">
+      <text x="75" y="0" fill="#FF3D9A" font-size="17" font-weight="800">Repositories</text>
+      <path d="M38 54h-19v18c0 23 14 38 36 40" stroke="#2F7BFF" stroke-width="7" fill="none"/><path d="M112 54h19v18c0 23-14 38-36 40" stroke="#2F7BFF" stroke-width="7" fill="none"/>
+      <path d="M35 48h80v43c0 29-20 49-40 60-20-11-40-31-40-60V48Z" fill="#2F7BFF"/><circle cx="75" cy="78" r="24" fill="#E5E7EB"/><text x="75" y="87" fill="#111827" font-size="28" font-family="Georgia, serif">B</text>
+      <text x="75" y="178" fill="#67E8F9" font-size="14" font-weight="800">Project Builder</text><text x="75" y="196" fill="#67E8F9" font-size="14" font-weight="800">Active</text><rect x="18" y="216" width="114" height="4" fill="#5B1B4D"/><rect x="18" y="216" width="78" height="4" fill="#FF3D9A"/>
     </g>
-    <g transform="translate(1015 28)">
-      <text x="65" y="0" fill="#FF3D9A" font-size="18" font-weight="800">Issues</text>
-      <path d="M35 38h20c0 22-16 40-38 40v-14c13 0 20-10 20-22h-2z" fill="none" stroke="#2F7BFF" stroke-width="6"/><path d="M95 38h-20c0 22 16 40 38 40v-14c-13 0-20-10-20-22h2z" fill="none" stroke="#2F7BFF" stroke-width="6"/>
-      <path d="M25 36h80v36c0 28-18 48-40 58-22-10-40-30-40-58z" fill="#2F7BFF"/><circle cx="65" cy="60" r="24" fill="#E5E7EB"/><text x="65" y="70" fill="#111827" font-size="28" font-family="Georgia, serif">?</text>
-      <text x="65" y="152" fill="#67E8F9" font-size="15" font-weight="800">Unknown</text><text x="65" y="169" fill="#67E8F9" font-size="14" font-weight="800">0pt</text><rect x="5" y="194" width="120" height="4" fill="#8B1E5D"/>
+    <g transform="translate(908 28)">
+      <text x="75" y="0" fill="#FF3D9A" font-size="17" font-weight="800">Issues</text>
+      <path d="M38 54h-19v18c0 23 14 38 36 40" stroke="#2F7BFF" stroke-width="7" fill="none"/><path d="M112 54h19v18c0 23-14 38-36 40" stroke="#2F7BFF" stroke-width="7" fill="none"/>
+      <path d="M35 48h80v43c0 29-20 49-40 60-20-11-40-31-40-60V48Z" fill="#2F7BFF"/><circle cx="75" cy="78" r="24" fill="#E5E7EB"/><text x="75" y="87" fill="#111827" font-size="28" font-family="Georgia, serif">?</text>
+      <text x="75" y="178" fill="#67E8F9" font-size="14" font-weight="800">Open Scope</text><text x="75" y="196" fill="#67E8F9" font-size="14" font-weight="800">0pt</text><rect x="18" y="216" width="114" height="4" fill="#5B1B4D"/>
     </g>
-    <g transform="translate(20 228)">
-      <text x="28" y="0" fill="#FF3D9A" font-size="18" font-weight="800">Reviews</text>
-      <path d="M10 28h16c0 18-12 32-30 32v-12c10 0 16-8 16-18h-2z" fill="none" stroke="#2F7BFF" stroke-width="6"/><path d="M70 28h-16c0 18 12 32 30 32v-12c-10 0-16-8-16-18h2z" fill="none" stroke="#2F7BFF" stroke-width="6"/>
-      <path d="M5 26h70v30c0 24-16 40-35 50-19-10-35-26-35-50z" fill="#2F7BFF"/><circle cx="40" cy="49" r="22" fill="#E5E7EB"/><text x="40" y="58" fill="#111827" font-size="26" font-family="Georgia, serif">?</text>
-      <text x="40" y="122" fill="#67E8F9" font-size="15" font-weight="800">Unknown</text><text x="40" y="139" fill="#67E8F9" font-size="14" font-weight="800">0pt</text><rect x="-20" y="164" width="120" height="4" fill="#8B1E5D"/>
+    <g transform="translate(1054 28)">
+      <text x="75" y="0" fill="#FF3D9A" font-size="17" font-weight="800">Reviews</text>
+      <path d="M38 54h-19v18c0 23 14 38 36 40" stroke="#2F7BFF" stroke-width="7" fill="none"/><path d="M112 54h19v18c0 23-14 38-36 40" stroke="#2F7BFF" stroke-width="7" fill="none"/>
+      <path d="M35 48h80v43c0 29-20 49-40 60-20-11-40-31-40-60V48Z" fill="#2F7BFF"/><circle cx="75" cy="78" r="24" fill="#E5E7EB"/><text x="75" y="87" fill="#111827" font-size="28" font-family="Georgia, serif">?</text>
+      <text x="75" y="178" fill="#67E8F9" font-size="14" font-weight="800">Review Track</text><text x="75" y="196" fill="#67E8F9" font-size="14" font-weight="800">0pt</text><rect x="18" y="216" width="114" height="4" fill="#5B1B4D"/>
     </g>
   </g>
 </svg>
