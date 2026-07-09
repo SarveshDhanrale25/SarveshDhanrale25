@@ -233,9 +233,20 @@ Worked on structured data analysis, data quality improvement, model building, an
 
 ## GitHub Trophies
 
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SarveshDhanrale25&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub trophies" />
-</p>
+<div align="center">
+
+| Trophy | Rank | Focus | Points |
+|---|---:|---|---:|
+| Commits | A | High Committer | 105pt |
+| Experience | A | Intermediate Dev | 11pt |
+| Pull Requests | B | Middle Puller | 14pt |
+| Stars | C | First Star | 9pt |
+| Followers | C | First Friend | 4pt |
+| Repositories | C | First Repository | 8pt |
+| Issues | ? | Unknown | 0pt |
+| Reviews | ? | Unknown | 0pt |
+
+</div>
 
 ---
 
