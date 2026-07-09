@@ -1,0 +1,32 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.38" stop-color="#07182F"/>
+      <stop offset="0.72" stop-color="#1E3A8A"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 92) rotate(135) scale(430 220)">
+      <stop stop-color="#A78BFA" stop-opacity="0.48"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.52" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="0" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+  <path d="M0 244C170 214 292 217 454 242C625 268 776 270 938 244C1052 225 1136 222 1200 236V320H0V244Z" fill="#020617" fill-opacity="0.58"/>
+  <path d="M0 270C200 250 356 249 536 270C728 292 904 292 1200 246" stroke="url(#line)" stroke-width="3" stroke-opacity="0.38"/>
+  <g transform="translate(68 68)">
+    <rect x="0" y="0" width="10" height="102" rx="5" fill="#22D3EE"/>
+    <rect x="20" y="32" width="10" height="70" rx="5" fill="#8B5CF6"/>
+    <rect x="40" y="14" width="10" height="88" rx="5" fill="#EC4899"/>
+    <text x="76" y="38" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="2">PORTFOLIO PROFILE</text>
+  </g>
+  <text x="600" y="152" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="800">Sarvesh Dhanrale</text>
+  <text x="600" y="202" text-anchor="middle" fill="#DDD6FE" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Full Stack Developer | Generative AI Engineer</text>
+  <text x="600" y="238" text-anchor="middle" fill="#C9D6FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">React | Next.js | Node.js | FastAPI | RAG | LLMs</text>
+</svg>
