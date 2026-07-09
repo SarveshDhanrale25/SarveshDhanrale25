@@ -1,16 +1,14 @@
-<svg width="1180" height="420" viewBox="0 0 1180 420" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1180" height="420" rx="18" fill="#020617"/>
-  <rect x="1" y="1" width="1178" height="418" rx="17" stroke="#1E3A8A" stroke-opacity="0.55"/>
-  <text x="48" y="62" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">📈 Contribution Activity</text>
-  <line x1="48" y1="82" x2="1132" y2="82" stroke="#1E293B"/>
-  <text x="590" y="132" text-anchor="middle" fill="#A78BFA" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Sarvesh Dhanrale's Contribution Graph</text>
-  <g stroke="#312E81" stroke-width="1" opacity="0.7">
-    <path d="M90 350H1110"/><path d="M90 305H1110"/><path d="M90 260H1110"/><path d="M90 215H1110"/><path d="M90 170H1110"/>
-    <path d="M90 160V350"/><path d="M190 160V350"/><path d="M290 160V350"/><path d="M390 160V350"/><path d="M490 160V350"/><path d="M590 160V350"/><path d="M690 160V350"/><path d="M790 160V350"/><path d="M890 160V350"/><path d="M990 160V350"/><path d="M1090 160V350"/>
+<svg width="1180" height="360" viewBox="0 0 1180 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1180" height="360" rx="18" fill="#020617"/>
+  <rect x="1" y="1" width="1178" height="358" rx="17" stroke="#1E3A8A" stroke-opacity="0.55"/>
+  <text x="590" y="52" text-anchor="middle" fill="#A78BFA" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Sarvesh Dhanrale's Contribution Graph</text>
+  <g stroke="#312E81" stroke-width="1" opacity="0.72">
+    <path d="M90 300H1110"/><path d="M90 255H1110"/><path d="M90 210H1110"/><path d="M90 165H1110"/><path d="M90 120H1110"/>
+    <path d="M90 110V300"/><path d="M190 110V300"/><path d="M290 110V300"/><path d="M390 110V300"/><path d="M490 110V300"/><path d="M590 110V300"/><path d="M690 110V300"/><path d="M790 110V300"/><path d="M890 110V300"/><path d="M990 110V300"/><path d="M1090 110V300"/>
   </g>
-  <polyline points="90,330 160,310 230,245 300,285 370,230 440,260 510,190 580,245 650,215 720,270 790,205 860,235 930,170 1000,250 1070,150 1110,220" fill="none" stroke="#8B5CF6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M90 330 C220 290 320 250 440 260 C540 270 575 195 650 215 C780 250 820 210 930 170 C1005 145 1050 150 1110 220 L1110 350 L90 350 Z" fill="#1E3A8A" opacity="0.28"/>
-  <g fill="#E5E7EB"><circle cx="230" cy="245" r="5"/><circle cx="510" cy="190" r="5"/><circle cx="790" cy="205" r="5"/><circle cx="930" cy="170" r="5"/><circle cx="1070" cy="150" r="5"/></g>
-  <text x="48" y="178" fill="#A78BFA" font-family="Segoe UI, Arial, sans-serif" font-size="15">20</text>
-  <text x="48" y="350" fill="#A78BFA" font-family="Segoe UI, Arial, sans-serif" font-size="15">0</text>
+  <path d="M90 280 C220 240 320 200 440 210 C540 220 575 145 650 165 C780 200 820 160 930 120 C1005 95 1050 100 1110 170 L1110 300 L90 300 Z" fill="#1E3A8A" opacity="0.28"/>
+  <polyline points="90,280 160,260 230,195 300,235 370,180 440,210 510,140 580,195 650,165 720,220 790,155 860,185 930,120 1000,200 1070,100 1110,170" fill="none" stroke="#8B5CF6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#E5E7EB"><circle cx="230" cy="195" r="5"/><circle cx="510" cy="140" r="5"/><circle cx="790" cy="155" r="5"/><circle cx="930" cy="120" r="5"/><circle cx="1070" cy="100" r="5"/></g>
+  <text x="50" y="128" fill="#A78BFA" font-family="Segoe UI, Arial, sans-serif" font-size="15">20</text>
+  <text x="58" y="302" fill="#A78BFA" font-family="Segoe UI, Arial, sans-serif" font-size="15">0</text>
 </svg>
