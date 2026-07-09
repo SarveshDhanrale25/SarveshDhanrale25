@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SarveshDhanrale25/SarveshDhanrale25/main/assets/header-banner.svg" width="100%" alt="Sarvesh Dhanrale profile banner" />
+<img src="https://raw.githubusercontent.com/SarveshDhanrale25/SarveshDhanrale25/main/assets/header-banner.svg?v=20260709b" width="100%" alt="Sarvesh Dhanrale profile banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&height=42&lines=Full+Stack+Developer+%7C+React+%2B+Next.js;Generative+AI+Engineer+%7C+RAG+%2B+LLMs;Building+Secure+AI-Powered+Web+Platforms;B.Tech+AI+%26+Data+Science+Student" alt="Typing SVG" />
@@ -217,7 +217,7 @@ Multi-agent QA system for automated debugging support, browser automation, and n
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=SarveshDhanrale25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9&cache_seconds=0" width="48%" alt="Sarvesh Dhanrale GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SarveshDhanrale25&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" width="48%" alt="Sarvesh Dhanrale GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=SarveshDhanrale25&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" width="48%" alt="Sarvesh Dhanrale GitHub streak" />
 
 <br/>
 
@@ -231,7 +231,7 @@ Multi-agent QA system for automated debugging support, browser automation, and n
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SarveshDhanrale25/SarveshDhanrale25/main/assets/github-trophies.svg" width="100%" alt="GitHub trophies" />
+<img src="https://raw.githubusercontent.com/SarveshDhanrale25/SarveshDhanrale25/main/assets/github-trophies.svg?v=20260709b" width="100%" alt="GitHub trophies" />
 
 </div>
 
@@ -302,6 +302,6 @@ Open To:
 
 *"Engineering useful systems with clean software, practical AI, and measurable impact."*
 
-<img src="https://raw.githubusercontent.com/SarveshDhanrale25/SarveshDhanrale25/main/assets/footer-banner.svg" width="100%" alt="Footer banner" />
+<img src="https://raw.githubusercontent.com/SarveshDhanrale25/SarveshDhanrale25/main/assets/footer-banner.svg?v=20260709b" width="100%" alt="Footer banner" />
 
 </div>
