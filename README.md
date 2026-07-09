@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-0B3D91?style=for-the-badge&labelColor=020617" alt="B.Tech AI and Data Science" />
   <img src="https://img.shields.io/badge/Full%20Stack-TypeScript%20%2B%20Node.js-1E3A8A?style=for-the-badge&labelColor=020617" alt="Full Stack" />
   <img src="https://img.shields.io/badge/AI-RAG%20%2B%20LLMs-7C3AED?style=for-the-badge&labelColor=020617" alt="AI" />
+  <img src="https://img.shields.io/badge/Location-Ghansoli%2C%20India-1E3A8A?style=for-the-badge&labelColor=020617" alt="Location" />
 </p>
 
 <p align="center">
@@ -21,13 +22,27 @@
   <a href="https://github.com/SarveshDhanrale25"><img src="https://img.shields.io/badge/GitHub-SarveshDhanrale25-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SarveshDhanrale25&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/SarveshDhanrale25?style=for-the-badge&color=1E3A8A&labelColor=020617" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/SarveshDhanrale25?style=for-the-badge&color=0B3D91&labelColor=020617" alt="Stars" />
+</p>
+
 ---
 
 ## About
 
-Full Stack Developer and Generative AI Engineer building secure, production-minded web applications and AI-powered platforms. I work across React, Next.js, TypeScript, Node.js, Express, FastAPI, PostgreSQL, Prisma, Redis, Docker, RAG pipelines, LangChain, ChromaDB, LLM integrations, and machine learning workflows.
+Full Stack Developer and Generative AI Engineer building secure, production-minded web applications and AI-powered platforms. Skilled across the modern JavaScript/TypeScript stack (React, Next.js, Node.js, Express) with experience in REST API design, relational databases, and authentication — combined with applied AI experience in RAG pipelines, LLM integration, and ML model development.
 
 I care about clean APIs, authentication, RBAC, scalable backend architecture, polished dashboards, useful automation, and AI systems that solve real product problems.
+
+```yaml
+Open_To:
+  - Full Stack Developer Internships
+  - AI / ML Engineering Internships
+  - Generative AI Projects
+  - Open Source Collaboration
+```
 
 ---
 
@@ -44,9 +59,10 @@ I care about clean APIs, authentication, RBAC, scalable backend architecture, po
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" />
   <img src="https://img.shields.io/badge/Shadcn%20UI-111827?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-111827?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
-**Backend, Data & Infra**
+**Backend, Databases & Infra**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,prisma,mongodb,sqlite,redis,docker,githubactions,git,github,postman,vercel" alt="Backend data infra" />
@@ -58,43 +74,50 @@ I care about clean APIs, authentication, RBAC, scalable backend architecture, po
 
 | Domain | Details |
 |---|---|
-| Generative AI | LLM integration, RAG pipelines, LangChain, ChromaDB, Groq, LLaMA workflows, prompt engineering |
+| Generative AI | LLM integration, RAG pipelines, LangChain, ChromaDB, Groq (LLaMA 3.1), prompt engineering, AI agents |
 | Machine Learning | EDA, preprocessing, feature engineering, Random Forest, AUC-ROC, F1, model optimization |
 | Product AI | Automated reporting, AI agents, DevOps intelligence, legal-tech workflows, analytics automation |
-| Data Science | Statistical analysis, visualization, insight extraction, model evaluation |
+| Data Science | Statistical analysis, visualization (Matplotlib, Seaborn), insight extraction, model evaluation |
 
 ---
 
 ## Featured Projects
 
 <details open>
-<summary><strong>DigiRakshak - Privacy-First Identity Verification Platform</strong></summary>
+<summary><strong>DigiRakshak — Privacy-First Identity Verification Platform</strong></summary>
+<br>
+
+Full-stack identity verification platform enabling selective disclosure of Aadhaar-linked attributes (e.g. age verification) without exposing complete identity data.
 
 | Area | Details |
 |---|---|
 | Stack | Next.js 15, TypeScript, Node.js, Express, PostgreSQL, Prisma, Redis, Docker, Tailwind CSS, Shadcn UI |
-| Security | JWT access and refresh tokens, RBAC, replay protection, privacy-first verification model |
-| Impact | Selective Aadhaar-linked attribute verification without exposing complete identity data |
-
-Built multi-role citizen, merchant, and admin dashboards with a Controller-Service-Repository backend architecture.
+| Architecture | Controller → Service → Repository backend pattern |
+| Security | JWT access + refresh tokens, RBAC, replay protection |
+| Impact | Multi-role citizen, merchant, and admin dashboards; privacy-first verification model |
+| Deployment | Dockerized, deployed via Vercel/Railway |
 
 </details>
 
 <details>
-<summary><strong>Nexus-Intel - AI DevOps Intelligence Platform</strong></summary>
+<summary><strong>Nexus-Intel — AI DevOps Intelligence Platform</strong></summary>
+<br>
+
+Automated engineering analytics platform with model-based delivery risk intelligence.
 
 | Area | Details |
 |---|---|
 | Stack | FastAPI, React, LLMs, ChromaDB, Machine Learning |
 | AI | RAG pipeline over PR and sprint datasets for natural language querying |
-| Impact | Improved risk prediction by approximately 28% and reduced reporting time by approximately 40% |
-
-Built automated engineering analytics and model-based delivery risk intelligence.
+| Impact | ~28% improvement in risk prediction, ~40% reduction in reporting time |
 
 </details>
 
 <details>
-<summary><strong>BugBot - AI Autonomous QA Agent</strong></summary>
+<summary><strong>BugBot — AI Autonomous QA Agent</strong></summary>
+<br>
+
+Multi-agent QA system for automated debugging support.
 
 | Area | Details |
 |---|---|
@@ -108,32 +131,34 @@ Built automated engineering analytics and model-based delivery risk intelligence
 
 ## Experience
 
-### Full Stack Developer Intern - Lawable.in
+### Full Stack Developer Intern — Lawable.in
+`Current`
 
-Current
+- Developing an AI-powered legal-tech platform end-to-end across a React/Next.js (TypeScript) frontend and a Node.js/Express backend following a Controller → Service → Repository architecture
+- Working with PostgreSQL (via Prisma ORM) for relational data modeling and Redis for caching and performance optimization
+- Implementing JWT-based authentication with refresh tokens and role-based access control (RBAC) for secure multi-role access
 
-- Building an AI-powered legal-tech platform with React/Next.js, TypeScript, Node.js, Express, PostgreSQL, Prisma, and Redis.
-- Implementing JWT authentication with refresh tokens and role-based access control.
-- Working with Controller-Service-Repository backend architecture and performance-aware caching.
+### Data Science Engineer Intern — YBI Foundation
+`May 2025 – June 2025`
 
-### Data Science Engineer Intern - YBI Foundation
-
-May 2025 - June 2025
-
-- Performed EDA and improved dataset consistency.
-- Improved ML prediction accuracy by approximately 30% through preprocessing and feature engineering.
-- Built data processing workflows to reduce manual effort.
+- Performed EDA on structured datasets to extract insights and improve data quality consistency
+- Built and optimized ML models achieving ~30% improvement in prediction accuracy through feature engineering and preprocessing
+- Developed data processing workflows, reducing manual effort and improving efficiency
 
 ---
 
 ## Achievements
 
+<div align="center">
+
 | Recognition | Details |
 |---|---|
 | LOOP Hackathon, BVCOE | Finalist, Top 10 |
 | PLUTONIUM Hackathon, VPPCOE | Finalist, Top 10 |
-| R&D Committee, AI&DS | Secretary, coordinating research activities and AI/Data Science workshops |
-| Data Pioneer Club | Treasurer, managed budgeting and event fund allocation |
+| R&D Committee, AI&DS | Secretary — coordinating research activities and AI/Data Science workshops |
+| Data Pioneer Club | Treasurer — managed budgeting and event fund allocation |
+
+</div>
 
 ---
 
@@ -141,30 +166,49 @@ May 2025 - June 2025
 
 <p>
   <img src="https://img.shields.io/badge/Google-AI%20Agents%20Intensive%20Program-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Agents Intensive Program" />
-  <img src="https://img.shields.io/badge/Data%20Visualization%20and%20Tools-Certified-0B3D91?style=for-the-badge" alt="Data Visualization and Tools" />
+  <img src="https://img.shields.io/badge/SIGCE-Data%20Visualization%20%26%20Tools-0B3D91?style=for-the-badge" alt="Data Visualization and Tools" />
+</p>
+
+---
+
+## Coding Profiles
+
+> Add your handles below to activate these — replace `yourhandle` with your actual usernames.
+
+<p>
+  <a href="https://leetcode.com/yourhandle"><img src="https://img.shields.io/badge/LeetCode-yourhandle-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.geeksforgeeks.org/user/yourhandle"><img src="https://img.shields.io/badge/GeeksforGeeks-yourhandle-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.hackerrank.com/yourhandle"><img src="https://img.shields.io/badge/HackerRank-yourhandle-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.codechef.com/users/yourhandle"><img src="https://img.shields.io/badge/CodeChef-yourhandle-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </p>
 
 ---
 
 ## GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SarveshDhanrale25&show_icons=true&theme=radical&hide_border=true&bg_color=020617&title_color=A78BFA&icon_color=7C3AED&text_color=ffffff" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshDhanrale25&layout=compact&theme=radical&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=ffffff" alt="Top languages" />
+</p>
 
-| Signal | Focus |
-|---|---|
-| Engineering | Full Stack Development + Generative AI |
-| Core Stack | React, Next.js, TypeScript, Node.js, Express, PostgreSQL, Prisma |
-| AI Work | RAG pipelines, LLM integration, LangChain, ChromaDB, AI agents |
-| Product Work | Secure auth, RBAC, API design, caching, dashboards, automation |
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SarveshDhanrale25&theme=radical&hide_border=true&background=020617&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak stats" />
+</p>
 
 ---
 
 ## GitHub Trophies
 
 <p align="center">
-  <img width="100%" src="./assets/github-trophies.svg" alt="GitHub trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SarveshDhanrale25&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SarveshDhanrale25&theme=react-dark&bg_color=020617&color=A78BFA&line=7C3AED&point=ffffff&hide_border=true" alt="Contribution activity graph" />
 </p>
 
 ---
@@ -178,6 +222,8 @@ May 2025 - June 2025
     <img width="100%" src="https://raw.githubusercontent.com/SarveshDhanrale25/SarveshDhanrale25/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
   </picture>
 </p>
+
+> Note: the snake animation requires a GitHub Actions workflow (`Platane/snk`) running in this repo's `SarveshDhanrale25/SarveshDhanrale25` special profile repository — it won't render until that workflow exists and has run at least once.
 
 ---
 
@@ -200,6 +246,8 @@ Open_To:
 ```
 
 ---
+
+## Connect
 
 <p align="center">
   <a href="mailto:sarveshdhanrale1@gmail.com"><img src="https://img.shields.io/badge/Gmail-sarveshdhanrale1%40gmail.com-0B3D91?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
